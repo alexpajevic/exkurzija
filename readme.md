@@ -6,3 +6,5 @@ dva
 tri
 cetiri
 sest
+pet
+
