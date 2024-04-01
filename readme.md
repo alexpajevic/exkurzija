@@ -4,3 +4,4 @@ soko start arena
 jedan
 dva
 tri
+cetiri
